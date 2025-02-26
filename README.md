@@ -1,4 +1,4 @@
-# Data Professional Salary Analysis PowerBI
+# Data Professional Salary Analysis - PowerBI
 
 # 🌍 Overview
 
