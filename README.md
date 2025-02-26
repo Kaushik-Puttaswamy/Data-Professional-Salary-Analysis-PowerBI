@@ -33,11 +33,11 @@ The **Data Professional Salary Analysis** project provides insights into salarie
 
  # 🛠️ Tools & Technologies Used
  
-	•	⚡ Power BI for data visualization.
+•	⚡ Power BI for data visualization.
 	
- •	****📊 Excel/CSV** Data Sources** for analysis.
+•	****📊 Excel/CSV** Data Sources** for analysis.
 	
- •	**🏗️ DAX & Power Query** for data transformation.
+•	**🏗️ DAX & Power Query** for data transformation.
 
 
 # 🔍 How to Use
